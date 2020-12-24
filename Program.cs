@@ -1,4 +1,5 @@
 ﻿using System;
+using SingletonHomework.Models;
 
 namespace SingletonHomework
 {

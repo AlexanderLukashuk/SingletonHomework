@@ -1,0 +1,12 @@
+/Users/sanya/paternsCsharp_study/homework/singleton/SingletonHomework/bin/Debug/netcoreapp3.1/SingletonHomework.deps.json
+/Users/sanya/paternsCsharp_study/homework/singleton/SingletonHomework/bin/Debug/netcoreapp3.1/SingletonHomework.runtimeconfig.json
+/Users/sanya/paternsCsharp_study/homework/singleton/SingletonHomework/bin/Debug/netcoreapp3.1/SingletonHomework.runtimeconfig.dev.json
+/Users/sanya/paternsCsharp_study/homework/singleton/SingletonHomework/bin/Debug/netcoreapp3.1/SingletonHomework.dll
+/Users/sanya/paternsCsharp_study/homework/singleton/SingletonHomework/bin/Debug/netcoreapp3.1/SingletonHomework.pdb
+/Users/sanya/paternsCsharp_study/homework/singleton/SingletonHomework/obj/Debug/netcoreapp3.1/SingletonHomework.csprojAssemblyReference.cache
+/Users/sanya/paternsCsharp_study/homework/singleton/SingletonHomework/obj/Debug/netcoreapp3.1/SingletonHomework.AssemblyInfoInputs.cache
+/Users/sanya/paternsCsharp_study/homework/singleton/SingletonHomework/obj/Debug/netcoreapp3.1/SingletonHomework.AssemblyInfo.cs
+/Users/sanya/paternsCsharp_study/homework/singleton/SingletonHomework/obj/Debug/netcoreapp3.1/SingletonHomework.csproj.CoreCompileInputs.cache
+/Users/sanya/paternsCsharp_study/homework/singleton/SingletonHomework/obj/Debug/netcoreapp3.1/SingletonHomework.dll
+/Users/sanya/paternsCsharp_study/homework/singleton/SingletonHomework/obj/Debug/netcoreapp3.1/SingletonHomework.pdb
+/Users/sanya/paternsCsharp_study/homework/singleton/SingletonHomework/obj/Debug/netcoreapp3.1/SingletonHomework.genruntimeconfig.cache
